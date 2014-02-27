@@ -9,18 +9,18 @@ There is great interest in the evolution of biological complexity. It is clear t
 
 But the simple observation that evolution can produce complexity does not necessarily mean that evolution favors increased complexity. Evolution results in change, and that change can be an increase or a decrease. There are many lineages that have secondarily lost complex structures. Snakes, for example, no longer have limbs.
 
-In fact, we should expect an increase in the overall complexity of life when the chance of evolution resulting in an increase in complexity within a lineage is *exactly the same* as resulting in a decrease in complexity.
+In fact, we should expect an increase in the overall complexity of life when the chance of evolution resulting in an increase in complexity within a lineage is *exactly the same* as the chance of a decrease in complexity.
 
 This can be illustrated with a very simple simulation based only on the following three 
 conditions:
 
 - The complexity of a trait can be measured on a scale from 0 to infinity, where 0 is the simplest possible condition.
 
-- In each generation, complexity can increase or decrease by a random amount. The amount of change is sampled from a standard normal distribution, so that there is just as much chance of increasing as there is decreasing.
+- In each generation, complexity can increase or decrease by a random amount. The amount of change is sampled from a standard normal distribution, so that there is just as much chance of increasing as there is of decreasing.
 
 - The complexity of the trait starts at 0, i.e. the simplest condition.
 
-Below I've implemented such a simulation, with 50 lineages and 2000 generations. Each of the thin lines is a simulated lineage. The position along the X axis indicates name, and the position along the Y axis indicates the complexity of the trait under study (you could think of it as the number of cell types, for example). The blue line is the mean complexity across lineages. The red line is the maximum complexity across all lineages. 
+Below I've implemented such a simulation (the source code for the simulation and this document is at https://github.com/caseywdunn/random_walk), with 50 lineages and 2000 generations. Each of the thin lines is a simulated lineage. The position along the X axis indicates time, and the position along the Y axis indicates the complexity of the trait under study (you could think of it as the number of cell types, for example). The blue line is the mean complexity across lineages. The red line is the maximum complexity across all lineages. 
 
 
 
