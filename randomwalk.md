@@ -20,7 +20,7 @@ conditions:
 
 - The complexity of the trait starts at 0, i.e. the simplest condition.
 
-Below I've implemented such a simulation (the source code for the simulation and this document is at https://github.com/caseywdunn/random_walk), with 50 lineages and 2000 generations. Each of the thin lines is a simulated lineage. The position along the X axis indicates time, and the position along the Y axis indicates the complexity of the trait under study (you could think of it as the number of cell types, for example). The blue line is the mean complexity across lineages. The red line is the maximum complexity across all lineages. 
+Below I've implemented such a simulation (the source code for this document, which includes the simulation code, is at https://github.com/caseywdunn/random_walk), with 50 lineages and 2000 generations. Each of the thin lines is a simulated lineage. The position along the X axis indicates time, and the position along the Y axis indicates the complexity of the trait under study (you could think of it as the number of cell types, for example). The blue line is the mean complexity across lineages. The red line is the maximum complexity across all lineages. 
 
 
 
