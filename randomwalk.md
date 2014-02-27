@@ -1,5 +1,7 @@
 # Random walks and the complexity of life
 
+*By Casey Dunn - http://dunnlab.org, http://creaturecast.org, [@caseywdunn](https://twitter.com/caseywdunn)*
+
 
 
 
@@ -31,4 +33,6 @@ Both the mean complexity and maximum complexity tend to increase through time, e
 What is happening here? Basically, complexity starts at 0, and has nowhere to go but up. So it goes up through time. The trend across lineages through time is a result of a boundary condition (complexity cannot go below zero), not a greater chance of increase than decrease.
 
 What does this tell us? Many things. But one of them is that we shouldn't be surprised by evolutionary decreases in complexity within lineages even when we see overall increases in complexity across lineages. We expect to see overall increases in complexity across lineages even when the chances of increasing or decreasing complexity within lineages are exactly the same. There isn't evolution (when a trait increases) and de-evolution (when a trait decreases) - just evolution. Evolution is change, regardless of the direction of change.
+
+By Casey Dunn - http://dunnlab.org, http://creaturecast.org, [@caseywdunn]
 
