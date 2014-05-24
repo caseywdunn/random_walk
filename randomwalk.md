@@ -34,4 +34,10 @@ What is happening here? Basically, complexity starts at 0, and has nowhere to go
 
 What does this tell us? Many things. But one of them is that we shouldn't be surprised by evolutionary decreases in complexity within lineages even when we see overall increases in complexity across lineages. We expect to see overall increases in complexity across lineages even when the chances of increasing or decreasing complexity within lineages are exactly the same. There isn't evolution (when a trait increases) and de-evolution (when a trait decreases) - just evolution. Evolution is change, regardless of the direction of change.
 
+For more information on random walks and null expectations in evolutionary biology, see:
+
+> Daniel W. McShea and Robert N. Brandon. (2010) [Biology's First Law: The Tendency for Diversity and Complexity to Increase in Evolutionary Systems](http://press.uchicago.edu/ucp/books/book/chicago/B/bo8642428.html). University Of Chicago Press.
+
+> SJ Gould (1996) [Full House: The Spread of Excellence from Plato to Darwin](http://www.hup.harvard.edu/catalog.php?isbn=9780674061613). Harmony Books. (Chapter 13: A preliminary example at smallest scale, with some generalities on the evolution of body size).
+
 
