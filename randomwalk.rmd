@@ -1,10 +1,16 @@
-# Random walks and the complexity of life
+---
+title: "Random walks and the complexity of life"
+output:
+  github_document: default
+  html_document: default
+---
 
-*By Casey Dunn - http://dunnlab.org, http://creaturecast.org, [@caseywdunn](https://twitter.com/caseywdunn)*
+By Casey Dunn - http://dunnlab.org, http://creaturecast.org, https://twitter.com/caseywdunn
 
 ```{r echo=FALSE}
 nlineages = 50
 ngenerations = 2000
+set.seed(4321)
 ```
 
 There is great interest in the evolution of biological complexity. It is clear that life has become more complex in many respects through time. There used to only be unicellular life, and now there are many types of multicellular organisms. New cell types, tissues, and organs exist now that didn't exist billions of years ago. Evolution has resulted in many life forms that have complex traits not found in their ancestors. 
